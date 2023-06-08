@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "groupName": {
-      "value": ""
+      "value": "group2"
     },
     "groupLocation": {
-      "value": ""
+      "value": "westeurope"
     },
     "appServiceName": {
-      "value": ""
+      "value": "echowebapp222"
     },
     "appServicePlanName": {
       "value": ""
@@ -27,19 +27,19 @@
       }
     },
     "appType": {
-      "value": "MultiTenant"
+      "value": "UserAssignedMSI"
     },
     "appId": {
-      "value": ""
+      "value": "a875e7da-6e8d-4326-aa1a-58bb2fde1271"
     },
     "appSecret": {
       "value": ""
     },
     "UMSIName": {
-      "value": ""
+      "value": "echowebapp222"
     },
     "UMSIResourceGroupName": {
-      "value": ""
+      "value": "group2"
     },
     "tenantId": {
       "value": ""
